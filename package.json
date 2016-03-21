@@ -1,0 +1,31 @@
+{
+  "name": "rogain-helper-defined",
+  "version": "1.0.0",
+  "description": "Rogain Defined helper component",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/rogain-helper-defined.git"
+  },
+  "keywords": [
+    "rogain",
+    "rogain-helper",
+    "helpers",
+    "core"
+  ],
+  "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambuhl/rogain-helper-defined/issues"
+  },
+  "homepage": "https://github.com/krambuhl/rogain-helper-defined",
+  "devDependencies": {
+    "tape": "~4"
+  },
+  "dependencies": {
+    "rogain-utils": "~0.2"
+  }
+}
