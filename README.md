@@ -1,4 +1,4 @@
-# rogain-helper-defined
+# rogain-component-defined
 
 Returns children if `data` is a non-empty Array, non-empty Object, or defined variable.  If the `<Else />` branch is defined, it will be returned when `data` is empty or undefined.
 
@@ -17,7 +17,7 @@ Variable or Expression.
 With [npm](https://www.npmjs.com) do:
 
 ```
-npm install rogain-helper-defined
+npm install rogain-component-defined
 ```
 
 ## License

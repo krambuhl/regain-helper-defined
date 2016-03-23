@@ -1,5 +1,5 @@
 {
-  "name": "rogain-helper-defined",
+  "name": "rogain-component-defined",
   "version": "1.0.0",
   "description": "Rogain Defined helper component",
   "main": "index.js",
@@ -8,20 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krambuhl/rogain-helper-defined.git"
+    "url": "git+https://github.com/krambuhl/rogain-component-defined.git"
   },
   "keywords": [
     "rogain",
-    "rogain-helper",
-    "helpers",
+    "rogain-component",
     "core"
   ],
   "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krambuhl/rogain-helper-defined/issues"
+    "url": "https://github.com/krambuhl/rogain-component-defined/issues"
   },
-  "homepage": "https://github.com/krambuhl/rogain-helper-defined",
+  "homepage": "https://github.com/krambuhl/rogain-component-defined",
   "devDependencies": {
     "tape": "~4"
   },
